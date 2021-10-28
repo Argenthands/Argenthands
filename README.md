@@ -174,9 +174,9 @@ person = {
             },
             'bases de datos': ['Postgres SQL', 'Microsoft SQL', 'MongoDb', 'MySQL'],
             ORM: ['Sequelize'],
-            trasfondo: ['Estudiante de Derecho', 'Perito Mercantil', 'Estudiante de Ingeniería en sistemas de información',],
-            idiomas: ['Ingles', 'Español',],
         },
+        trasfondo: ['Estudiante de Derecho', 'Perito Mercantil', 'Estudiante de Ingeniería en sistemas de información',],
+        idiomas: ['Ingles', 'Español',],
     },
     contacto: 'alejandrodavid.benolol@gmail.com',
 }
