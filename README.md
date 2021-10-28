@@ -150,34 +150,34 @@ const person = {
 
 ```python
 person = {
-    'nombre': {
+    nombre: {
         'primer nombre': 'Alejandro',
         'segundo nombre': 'David',
         'apellido': 'Benolol',
     },
-    'direccion': {
-        'Lugar de origen': 'America del Sur',
-        'Pais de origen': 'Argentina',
-        'Provincia de origen: 'Chaco',
-        'Ciudad de origen': 'Resistencia',
+    dirección: {
+        Continente: 'America del Sur',
+        País: 'Argentina',
+        Provincia: 'Chaco',
+        Ciudad: 'Resistencia',
     },
-    'conocimientos': {
-        'fullStack': {
-            'lenguajes': ['Python', 'JavaScript'],
-            'fontEnd': {
-                'js': ['React', 'Redux'],
-                'py': ['Django']
+    conocimientos: {
+        fullStack: {
+            'lenguajes de programación': ['Python', 'JavaScript'],
+            fontEnd: {
+                js: ['React', 'Redux'],
+                py: ['Django']
             },
-            'backEnd': {
-                'js': ['Node', 'Express'],
-                'py': ['Python'],
+            backEnd: {
+                js: ['Node', 'Express'],
+                py: ['Python'],
             },
             'bases de datos': ['Postgres SQL', 'Microsoft SQL', 'MongoDb', 'MySQL'],
-            'ORM': ['Sequelize'],
-            'trasfondo': ['Estudiante de Derecho', 'Perito Mercantil', 'Estudiante de Ingeniería en sistemas de información',],
-            'idiomas': ['Ingles', 'Español',],
+            ORM: ['Sequelize'],
+            trasfondo: ['Estudiante de Derecho', 'Perito Mercantil', 'Estudiante de Ingeniería en sistemas de información',],
+            idiomas: ['Ingles', 'Español',],
         },
     },
-    'contacto': 'alejandrodavid.benolol@gmail.com',
+    contacto: 'alejandrodavid.benolol@gmail.com',
 }
 ```
