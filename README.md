@@ -5,7 +5,7 @@
         - 💬 Welcome to my <b>GitHub</b>
     </header>
     <section class="Languages">
-        <h3 align="right">Languages:</h3>
+        <h3 align="left">Languages:</h3>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="9%" height="9%" 
@@ -103,7 +103,15 @@
                 title="Linux"/>
         </a>
     </section>
-    🌱 I’m currently learning <b>TypeScript</b>
+    <section class="portfolio">
+        <h3 align="center">🌱some of the projects I did🌱</h3>
+        <a href="https://github.com/guidoabelleira/E-Commerce-PF10" target="_blank">
+            <p align="center">E commerce</p>
+        </a>
+        <a href="https://github.com/Argenthands/TPI-Food">
+            <p align="center">API Foods</p>
+        </a>
+    </section>
     <footer>
         - 💬 Thanks for coming to visit my <b>GitHub</b>
         - 📫 How to reach me: <a
@@ -122,7 +130,7 @@ const person = {
     },
     address: {
         homeLand: "South America",
-        homeCountry: "Argentina:,
+        homeCountry: "Argentina":,
         homeState: "Chaco",
         homeTown: "Resistencia",
     },
@@ -149,35 +157,35 @@ const person = {
 ```
 
 ```python
-person = {
-    nombre: {
-        'primer nombre': 'Alejandro',
-        'segundo nombre': 'David',
-        'apellido': 'Benolol',
+Person = {
+    Nombre: {
+        Primer: 'Alejandro',
+        Segundo: 'David',
+        Apellido: 'Benolol',
     },
-    dirección: {
+    Dirección: {
         Continente: 'America del Sur',
         País: 'Argentina',
         Provincia: 'Chaco',
         Ciudad: 'Resistencia',
     },
-    conocimientos: {
-        fullStack: {
+    Conocimientos: {
+        FullStack: {
             'lenguajes de programación': ['Python', 'JavaScript'],
-            fontEnd: {
-                js: ['React', 'Redux'],
-                py: ['Django']
+            FontEnd: {
+                Js: ['React', 'Redux'],
+                Py: ['Django']
             },
-            backEnd: {
-                js: ['Node', 'Express'],
-                py: ['Python'],
+            BackEnd: {
+                Js: ['Node', 'Express'],
+                Py: ['Python'],
             },
             'bases de datos': ['Postgres SQL', 'Microsoft SQL', 'MongoDb', 'MySQL'],
             ORM: ['Sequelize'],
         },
-        trasfondo: ['Estudiante de Derecho', 'Perito Mercantil', 'Estudiante de Ingeniería en sistemas de información',],
-        idiomas: ['Ingles', 'Español',],
+        Trasfondo: ['Estudiante de Derecho', 'Perito Mercantil', 'Estudiante de Ingeniería en sistemas de información',],
+        Idiomas: ['Ingles', 'Español',],
     },
-    contacto: 'alejandrodavid.benolol@gmail.com',
+    Contacto: 'alejandrodavid.benolol@gmail.com',
 }
 ```
