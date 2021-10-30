@@ -80,7 +80,7 @@
     <section class="ORM">
         <h3 align="left">ORM:</h3>
         <a href="https://sequelize.org/" target="_blank">
-            <img src="https://sequelize.org/master/manual/asset/logo-small.png" 
+            <img src="https://sequelize.org/master/image/brand_logo.png" 
             alt="sequelize" width="7%" height="8%" 
             title="Sequelize"/>
         </a>
