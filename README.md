@@ -105,6 +105,11 @@
     </section>
     <section class="portfolio">
         <h3 align="center">🌱some of the projects I did🌱</h3>
+        <p align="center">Deployed proyects</p>
+        <a href="https://e-commerce-pf-10.vercel.app/" target="_blank">
+            <p align="center">E-commerce deployed</p>
+        </a>
+        <p align="center">repositories</p>
         <a href="https://github.com/guidoabelleira/E-Commerce-PF10" target="_blank">
             <p align="center">E commerce</p>
         </a>
