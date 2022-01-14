@@ -92,6 +92,11 @@
             alt="git" width="9%" height="9%" 
             title="Git"/>
         </a>
+        <a href="" target="_blank">
+            <img src="https://www.json.org/img/json160.gif"
+            alt="JSON" width="9%" height="9%"
+            title="JSON" />
+        </a>
         <a href="https://www.arduino.cc/" 2wqstarget="_blank">
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" 
             alt="arduino" width="9%" height="9%" 
@@ -138,7 +143,9 @@ const person = {
         homeCountry: "Argentina":,
         homeState: "Chaco",
         homeTown: "Resistencia",
+        currentLand: "Israel",
     },
+    citizenships: ["Argentinian", "Israeli", "Italian"],
     knoledge: {
         fullStack: {
             languages: ["Python", "JavaScript",],
@@ -159,38 +166,4 @@ const person = {
 
     contact: "alejandro.david.benolol@gmail.com",    
 };
-```
-
-```python
-Person = {
-    Nombre: {
-        Primer: 'Alejandro',
-        Segundo: 'David',
-        Apellido: 'Benolol',
-    },
-    Dirección: {
-        Continente: 'America del Sur',
-        País: 'Argentina',
-        Provincia: 'Chaco',
-        Ciudad: 'Resistencia',
-    },
-    Conocimientos: {
-        FullStack: {
-            'lenguajes de programación': ['Python', 'JavaScript'],
-            FontEnd: {
-                Js: ['React', 'Redux'],
-                Py: ['Django']
-            },
-            BackEnd: {
-                Js: ['Node', 'Express'],
-                Py: ['Python'],
-            },
-            'bases de datos': ['Postgres SQL', 'Microsoft SQL', 'MongoDb', 'MySQL'],
-            ORM: ['Sequelize'],
-        },
-        Trasfondo: ['Estudiante de Derecho', 'Perito Mercantil', 'Estudiante de Ingeniería en sistemas de información',],
-        Idiomas: ['Ingles', 'Español',],
-    },
-    Contacto: 'alejandrodavid.benolol@gmail.com',
-}
 ```
