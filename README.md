@@ -114,6 +114,9 @@
         <a href="https://e-commerce-pf-10.vercel.app/" target="_blank">
             <p align="center">E-commerce deployed</p>
         </a>
+        <a href="https://client-hsk7j6r4p-argenthands.vercel.app" target="_blank">
+            <p align="center">Estudio Jurídico Contable BS&A</p>
+        </a>
         <p align="center">repositories</p>
         <a href="https://github.com/guidoabelleira/E-Commerce-PF10" target="_blank">
             <p align="center">E commerce</p>
