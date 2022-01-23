@@ -4,6 +4,23 @@
         <h3 align="center">A passionate Full Stack developer</h3>
         - 💬 Welcome to my <b>GitHub</b>
     </header>
+    <section class="portfolio">
+        <h3 align="center">🌱some of the projects I did🌱</h3>
+        <p align="center">Deployed proyects</p>
+        <a href="https://e-commerce-pf-10.vercel.app/" target="_blank">
+            <p align="center">E-commerce deployed</p>
+        </a>
+        <a href="https://estudio-bs.vercel.app/" target="_blank">
+            <p align="center">Estudio Jurídico Contable BS&A</p>
+        </a>
+        <p align="center">repositories</p>
+        <a href="https://github.com/guidoabelleira/E-Commerce-PF10" target="_blank">
+            <p align="center">E commerce</p>
+        </a>
+        <a href="https://github.com/Argenthands/TPI-Food">
+            <p align="center">API Foods</p>
+        </a>
+    </section>
     <section class="Languages">
         <h3 align="left">Languages:</h3>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -108,23 +125,7 @@
                 title="Linux"/>
         </a>
     </section>
-    <section class="portfolio">
-        <h3 align="center">🌱some of the projects I did🌱</h3>
-        <p align="center">Deployed proyects</p>
-        <a href="https://e-commerce-pf-10.vercel.app/" target="_blank">
-            <p align="center">E-commerce deployed</p>
-        </a>
-        <a href="https://estudio-bs.vercel.app/" target="_blank">
-            <p align="center">Estudio Jurídico Contable BS&A</p>
-        </a>
-        <p align="center">repositories</p>
-        <a href="https://github.com/guidoabelleira/E-Commerce-PF10" target="_blank">
-            <p align="center">E commerce</p>
-        </a>
-        <a href="https://github.com/Argenthands/TPI-Food">
-            <p align="center">API Foods</p>
-        </a>
-    </section>
+    
     <footer>
         - 💬 Thanks for coming to visit my <b>GitHub</b>
         - 📫 How to reach me: <a
