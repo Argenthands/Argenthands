@@ -125,7 +125,6 @@
                 title="Linux"/>
         </a>
     </section>
-    
     <footer>
         - 💬 Thanks for coming to visit my <b>GitHub</b>
         - 📫 How to reach me: <a
