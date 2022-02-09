@@ -1,8 +1,8 @@
 <body>
     <header>
         <h1 align="center">Hi 👋, I'm Alejandro</h1>
-        <h3 align="center">A passionate Full Stack developer</h3>
-        - 💬 Welcome to my <b>GitHub</b>
+        <h2 align="center">Full Stack developer</h2>
+        <p align="center">- 💬 Welcome to my <b>GitHub</b> -</p>
     </header>
     <section class="portfolio">
         <h3 align="center">🌱some of the projects I did🌱</h3>
@@ -21,8 +21,8 @@
             <p align="center">API Foods</p>
         </a>
     </section>
-    <section class="Languages">
-        <h3 align="left">Languages:</h3>
+    <section class="Languages" align="center">
+        <h3 align="center">Languages:</h3>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="9%" height="9%" 
@@ -44,8 +44,8 @@
                 title="Python"/>
         </a>
     </section>
-    <section class="Libraries">
-        <h3 align="left">Libraries:</h3>
+    <section class="Libraries" align="center">
+        <h3 align="center">Libraries:</h3>
         <a href="https://reactjs.org/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                 alt="react" width="9%" height="9%" 
@@ -56,15 +56,9 @@
                 alt="redux" width="9%" height="9%" 
                 title="Redux.JS"/>
         </a>
-        <a href="https://expressjs.com/" target="_blank">
-            <img src="https://expressjs.com/images/favicon.png" 
-            alt="Express.js" width="5%" height="8%" 
-            title="Express.JS"
-            align=""/>
-        </a>
     </section>
-    <section class="Frameworks">
-        <h3 align="left">Frameworks:</h3>
+    <section class="Frameworks" align="center">
+        <h3 align="center">Frameworks:</h3>
         <a href="https://www.djangoproject.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
                 alt="django" width="9%" height="9%" 
@@ -75,9 +69,15 @@
                 alt="nodejs" width="9%" height="9%" 
                 title="Node.JS"/>
         </a>
+        <a href="https://expressjs.com/" target="_blank">
+            <img src="https://expressjs.com/images/favicon.png" 
+            alt="Express.js" width="5%" height="8%" 
+            title="Express.JS"
+            align=""/>
+        </a>
     </section>
-    <section class="SQL">
-        <h3 align="left">Databases:</h3>
+    <section class="Databases" align="center">
+        <h3 align="center">Databases:</h3>
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
             <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="9%"
                 height="9%" 
@@ -93,17 +93,32 @@
                 alt="postgresql" width="9%" height="9%" 
                 title="Postgres SQL"/>
         </a>
+        <a href="https://www.mongodb.com/">
+            <img src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress"
+                alt="MongoDB" width="9%" height="12%"
+                title="MongoDB"
+            >
+        </a>
     </section>
-    <section class="ORM">
-        <h3 align="left">ORM:</h3>
+    <section class="ORM" align="center">
+        <h3 align="center">ORM:</h3>
         <a href="https://sequelize.org/" target="_blank">
             <img src="https://sequelize.org/master/image/brand_logo.png" 
             alt="sequelize" width="7%" height="8%" 
             title="Sequelize"/>
         </a>
     </section>
-    <section class="tools">
-        <h3 align="left">Tools:</h3>
+    <section class="Testing Framework" align="center">
+        <h3 align="center">Testing Frameworks</h3>
+        <a href="https://jestjs.io/">
+            <img src="https://avatars3.githubusercontent.com/u/32196900?s=400&v=4"
+                alt="Jest" width="7%"
+                title="Jest"
+            >
+        </a>
+    </section>
+    <section class="tools" align="center">
+        <h3 align="center">Tools:</h3>
         <a href="https://git-scm.com/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
             alt="git" width="9%" height="9%" 
@@ -143,7 +158,7 @@ const person = {
     },
     address: {
         homeLand: "South America",
-        homeCountry: "Argentina":,
+        homeCountry: "Argentina",
         homeState: "Chaco",
         homeTown: "Resistencia",
         currentLand: "Israel",
@@ -160,6 +175,7 @@ const person = {
                 js: ["Node", "Express",],
                 py: ["Python",],
             },
+            testing: "Jest"
             database: ["Postgres SQL", "Microsoft SQL", "MongoDb", "MySQL",],
             ORM: ["Sequelize"],
         },
