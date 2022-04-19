@@ -175,7 +175,7 @@ const person = {
                 js: ["Node", "Express",],
                 py: ["Python",],
             },
-            testing: "Jest"
+            testing: "Jest",
             database: ["Postgres SQL", "Microsoft SQL", "MongoDb", "MySQL",],
             ORM: ["Sequelize"],
         },
